@@ -1,0 +1,46 @@
+date,basket_type,item_name,scraped_name,price,unit_size,brand,store
+2020-12-01,Healthy,Whole Wheat,Great Value 100% Whole Wheat Bread,2.41,20 oz,Great Value,Walmart
+2020-12-01,Healthy,Brown Rice,Great Value Long Grain Brown Rice,1.84,2 lb,Great Value,Walmart
+2020-12-01,Healthy,Quinoa,Great Value Organic White Quinoa,4.83,12 oz,Great Value,Walmart
+2020-12-01,Healthy,Chickpeas (Dry),Great Value Garbanzo Beans,1.41,1 lb,Great Value,Walmart
+2020-12-01,Healthy,Lentils (Dry),Great Value Brown Lentils,1.4,1 lb,Great Value,Walmart
+2020-12-01,Healthy,Greek Yogurt,Great Value Nonfat Plain Greek Yogurt,4.11,32 oz,Great Value,Walmart
+2020-12-01,Healthy,Spinach,Fresh Spinach Bag,2.23,10 oz bag,Fresh,Walmart
+2020-12-01,Healthy,Broccoli,Fresh Broccoli Crowns,1.76,1 lb,Fresh,Walmart
+2020-12-01,Healthy,Carrots,Fresh Whole Carrots,1.27,2 lb bag,Fresh,Walmart
+2020-12-01,Healthy,Apples,Gala Apples Bag,4.26,3 lb bag,Fresh,Walmart
+2020-12-01,Healthy,Bananas,Fresh Bananas,0.6,1 lb,Fresh,Walmart
+2020-12-01,Healthy,Tofu,Nasoya Extra Firm Tofu,2.4,14 oz,Nasoya,Walmart
+2020-12-01,Healthy,Oats,Great Value Old Fashioned Oats,3.26,42 oz,Great Value,Walmart
+2020-12-01,Healthy,Peanut Butter,Great Value Creamy Peanut Butter,1.63,16 oz,Great Value,Walmart
+2020-12-01,Healthy,Olive Oil,Great Value Extra Virgin Olive Oil,5.87,16.9 oz,Great Value,Walmart
+2020-12-01,UltraProcessed,Frozen Pizza,Great Value Pepperoni Frozen Pizza,3.83,12 in,Great Value,Walmart
+2020-12-01,UltraProcessed,Soda,Coca-Cola Original Soda,2.22,2 L,Coca-Cola,Walmart
+2020-12-01,UltraProcessed,Chips,Lay's Classic Potato Chips,3.5,8 oz,Lay's,Walmart
+2020-12-01,UltraProcessed,Instant Noodles,Maruchan Chicken Ramen Noodle Soup,2.77,12 pack,Maruchan,Walmart
+2020-12-01,UltraProcessed,Sugary Cereal,Kellogg's Froot Loops Cereal,4.19,19.4 oz,Kellogg's,Walmart
+2020-12-01,UltraProcessed,Ice Cream,Great Value Vanilla Ice Cream,3.24,48 oz,Great Value,Walmart
+2020-12-01,UltraProcessed,Candy,Skittles Original Candy Bag,2.06,9 oz,Skittles,Walmart
+2020-12-01,UltraProcessed,White Bread,Wonder Classic White Bread,2.48,20 oz,Wonder,Walmart
+2020-12-01,UltraProcessed,Processed Cheese Slice,Kraft Singles American Cheese Slices,4.52,16 slices,Kraft,Walmart
+2020-12-01,UltraProcessed,Chicken Nuggets,Tyson Fully Cooked Chicken Nuggets,7.57,32 oz,Tyson,Walmart
+2020-12-01,UltraProcessed,Energy Drink,Monster Energy Original,2.32,16 fl oz,Monster,Walmart
+2020-12-01,UltraProcessed,Microwave Popcorn,Orville Redenbacher's Movie Theater Popcorn,4.03,6 pack,Orville Redenbacher's,Walmart
+2020-12-01,UltraProcessed,Hot Dogs,Bar-S Classic Franks,1.15,12 oz,Bar-S,Walmart
+2020-12-01,UltraProcessed,Chocolate Cookies,Oreo Original Chocolate Sandwich Cookies,4.24,14.3 oz,Oreo,Walmart
+2020-12-01,UltraProcessed,Mac and Cheese,Kraft Macaroni and Cheese Dinner,4.34,5 pack,Kraft,Walmart
+2020-12-01,Neutral,Pasta,Barilla Spaghetti Pasta,1.48,16 oz,Barilla,Walmart
+2020-12-01,Neutral,Tomato Sauce,Great Value Traditional Pasta Sauce,1.15,24 oz,Great Value,Walmart
+2020-12-01,Neutral,Milk,Great Value 2% Reduced Fat Milk,3.1,1 gal,Great Value,Walmart
+2020-12-01,Neutral,Potatoes,Russet Potatoes Bag,4.84,5 lb bag,Fresh,Walmart
+2020-12-01,Neutral,Bananas,Fresh Bananas,0.6,1 lb,Fresh,Walmart
+2020-12-01,Neutral,White Rice,Great Value Long Grain White Rice,1.96,2 lb,Great Value,Walmart
+2020-12-01,Neutral,Tortillas,Mission Flour Tortillas,2.82,10 count,Mission,Walmart
+2020-12-01,Neutral,Butter,Great Value Salted Butter Sticks,3.96,16 oz,Great Value,Walmart
+2020-12-01,Neutral,Canned Corn,Del Monte Whole Kernel Corn,1.25,15.25 oz can,Del Monte,Walmart
+2020-12-01,Neutral,Canned Beans,Bush's Best Black Beans,1.46,15.5 oz can,Bush's Best,Walmart
+2020-12-01,Neutral,Onions,Yellow Onions Bag,2.87,3 lb bag,Fresh,Walmart
+2020-12-01,Neutral,Eggs,Great Value Large White Eggs,2.15,12 count,Great Value,Walmart
+2020-12-01,Neutral,Snack Crackers,Ritz Original Crackers,3.56,13.7 oz,Ritz,Walmart
+2020-12-01,Neutral,Flour,Great Value All Purpose Flour,2.17,5 lb,Great Value,Walmart
+2020-12-01,Neutral,Sugar,Great Value Granulated Sugar,2.78,4 lb,Great Value,Walmart

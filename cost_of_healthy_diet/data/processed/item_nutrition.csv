@@ -1,0 +1,44 @@
+item_name,search_term,fdc_id,description,data_type,calories_per_100g,protein_per_100g,fiber_per_100g,sugar_per_100g,saturated_fat_per_100g
+Apples,apples raw with skin,1750340,"Apples, fuji, with skin, raw",Foundation,,0.148,2.08,13.3,
+Bananas,bananas raw,2709224,"Banana, raw",Survey (FNDDS),97.0,0.74,1.7,15.8,0.112
+Brown Rice,brown rice cooked,2710789,"Rice, brown, cooked, as ingredient",Survey (FNDDS),124.0,2.45,1.0,0.22,0.2
+Butter,butter salted,173410,"Butter, salted",SR Legacy,717.0,0.85,0.0,0.06,51.4
+Candy,chocolate candy,2710328,Chocolate candy,Survey (FNDDS),535.0,7.65,3.4,51.5,18.509
+Canned Beans,black beans canned,171141,"Soup, black bean, canned, condensed",SR Legacy,91.0,4.83,6.8,2.49,0.34
+Canned Corn,corn canned,2709921,"Corn, canned, cooked with oil",Survey (FNDDS),91.0,2.22,1.9,4.31,0.627
+Chicken Nuggets,chicken nuggets fried,2706092,"Chicken nuggets, NFS",Survey (FNDDS),307.0,15.92,0.9,0.08,3.566
+Chickpeas (Dry),chickpeas cooked,2707414,"Chickpeas, NFS",Survey (FNDDS),211.0,8.23,7.1,4.46,1.12
+Chocolate Cookies,chocolate sandwich cookies,2088207,CHOCOLATE SANDWICH COOKIES,Branded,483.0,3.45,3.4,41.4,5.17
+Eggs,egg whole raw,2707152,"Egg, whole, raw",Survey (FNDDS),143.0,12.4,0.0,0.2,3.2
+Energy Drink,energy drink,2710756,Energy Drink,Survey (FNDDS),43.0,0.46,0.0,10.22,0.0
+Flour,wheat flour all purpose,169761,"Wheat flour, white, all-purpose, unenriched",SR Legacy,364.0,10.3,2.7,0.27,0.155
+Greek Yogurt,greek yogurt plain nonfat,2705424,"Yogurt, Greek, nonfat milk, plain",Survey (FNDDS),59.0,10.3,0.0,3.27,0.108
+Hot Dogs,frankfurter beef,174614,"Frankfurter, beef, heated",SR Legacy,322.0,11.7,0.0,1.27,11.6
+Ice Cream,ice cream vanilla,2705630,"Ice cream, vanilla",Survey (FNDDS),207.0,3.5,0.7,21.22,6.79
+Instant Noodles,ramen noodle soup prepared,2709152,"Soup, ramen noodles, water added",Survey (FNDDS),66.0,1.53,0.4,0.3,1.218
+Mac and Cheese,macaroni and cheese prepared,169770,"Macaroni and cheese, box mix with cheese sauce, prepared",SR Legacy,164.0,6.68,1.2,1.57,1.64
+Microwave Popcorn,popcorn microwave,2708230,"Popcorn, microwave, kettle",Survey (FNDDS),504.0,9.35,10.5,2.2,4.595
+Oats,oats dry,172989,"Cereals, QUAKER, Quick Oats, Dry",SR Legacy,371.0,13.7,9.4,1.42,1.11
+Olive Oil,olive oil,2710186,Olive oil,Survey (FNDDS),900.0,0.0,0.0,0.0,15.52
+Onions,onions raw,2709795,"Onions, raw",Survey (FNDDS),38.0,0.86,1.7,5.8,0.042
+Peanut Butter,peanut butter smooth,172458,"Peanut butter, smooth, reduced fat",SR Legacy,520.0,25.9,5.2,9.28,5.76
+Potatoes,potatoes white flesh baked,170434,"Potatoes, white, flesh and skin, baked",SR Legacy,92.0,2.1,2.1,1.53,0.04
+Quinoa,quinoa cooked,168917,"Quinoa, cooked",SR Legacy,120.0,4.4,2.8,0.87,0.231
+Snack Crackers,snack crackers,2129565,SNACK CRACKERS,Branded,433.0,6.67,3.3,6.67,10.0
+Spinach,spinach raw,2709614,"Spinach, raw",Survey (FNDDS),27.0,2.85,1.6,0.42,0.063
+Sugar,sugar granulated,1918806,SUGAR GRANULATED,Branded,375.0,0.0,,100.0,0.0
+Sugary Cereal,ready to eat cereal sweetened,2708445,"Cereal, ready-to-eat, NFS",Survey (FNDDS),379.0,7.74,6.6,25.36,0.694
+Tofu,tofu firm,2025844,TOFU FIRM,Branded,89.0,8.86,1.3,0.0,0.0
+Tomato Sauce,tomato sauce canned,170054,"Tomato products, canned, sauce",SR Legacy,24.0,1.2,1.5,3.56,0.041
+Tortillas,flour tortillas,2418476,FLOUR TORTILLAS,Branded,294.0,5.88,5.9,0.0,1.47
+White Bread,white bread,2083479,WHITE BREAD,Branded,220.0,7.32,2.4,0.0,0.0
+White Rice,white rice cooked,2708422,"Rice, white, cooked, glutinous",Survey (FNDDS),96.0,2.01,1.0,0.05,0.039
+Whole Wheat,whole wheat bread,,Whole wheat bread (approx),Simulated,247,13.0,7.0,6.0,1.0
+Broccoli,broccoli raw,,Broccoli raw (approx),Simulated,34,2.8,2.6,1.7,0.1
+Carrots,carrots raw,,Carrots raw (approx),Simulated,41,0.9,2.8,4.7,0.0
+Frozen Pizza,frozen pizza,,Frozen cheese pizza (approx),Simulated,250,11.0,2.0,3.0,4.5
+Chips,potato chips,,Potato chips (approx),Simulated,536,7.0,4.8,0.4,13.0
+Soda,cola soda,,Cola soft drink (approx),Simulated,41,0.0,0.0,10.6,0.0
+Pasta,spaghetti cooked,,Cooked spaghetti (approx),Simulated,131,5.0,1.8,0.6,0.2
+Milk,milk 2 percent,,2 percent milk (approx),Simulated,50,3.4,0.0,5.0,1.3
+

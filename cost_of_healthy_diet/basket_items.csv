@@ -1,0 +1,46 @@
+basket_type,item_name,quantity,unit
+Healthy,Whole Wheat,1,loaf
+Healthy,Brown Rice,2,pounds
+Healthy,Quinoa,1,pounds
+Healthy,Chickpeas (Dry),1,pounds
+Healthy,Lentils (Dry),1,pounds
+Healthy,Greek Yogurt,32,ounces
+Healthy,Spinach,1,bag
+Healthy,Broccoli,2,heads
+Healthy,Carrots,2,pounds
+Healthy,Apples,6,count
+Healthy,Bananas,6,count
+Healthy,Tofu,14,ounces
+Healthy,Oats,1,pounds
+Healthy,Peanut Butter,16,ounces
+Healthy,Olive Oil,16,ounces
+UltraProcessed,Frozen Pizza,1,packs
+UltraProcessed,Soda,2,liters
+UltraProcessed,Chips,1,bag
+UltraProcessed,Instant Noodles,5,packs
+UltraProcessed,Sugary Cereal,1,box
+UltraProcessed,Ice Cream,1,container
+UltraProcessed,Candy,1,bag
+UltraProcessed,White Bread,1,loaf
+UltraProcessed,Processed Cheese Slice,1,packs
+UltraProcessed,Chicken Nuggets,1,bag
+UltraProcessed,Energy Drink,2,cans
+UltraProcessed,Microwave Popcorn,3,packs
+UltraProcessed,Hot Dogs,1,packs
+UltraProcessed,Chocolate Cookies,1,packs
+UltraProcessed,Mac and Cheese,2,box
+Neutral,Pasta,1,pounds
+Neutral,Tomato Sauce,1,cans
+Neutral,Milk,1,gallons
+Neutral,Potatoes,5,pounds
+Neutral,Bananas,6,count
+Neutral,White Rice,2,pounds
+Neutral,Tortillas,1,packs
+Neutral,Butter,8,ounces
+Neutral,Canned Corn,1,cans
+Neutral,Canned Beans,1,cans
+Neutral,Onions,3,count
+Neutral,Eggs,12,count
+Neutral,Snack Crackers,1,box
+Neutral,Flour,5,pounds
+Neutral,Sugar,4,pounds
